@@ -10,7 +10,8 @@ h1, h2, {
     color: #ffffff;
 }
 
-nav a {
-    color: #ffffff;
+nav ul li a {
     text-decoration: none;
+    border-bottom: 1px solid #ffffff;
+    transition: opacity 0.2s;
 }
