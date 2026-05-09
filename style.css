@@ -4,6 +4,11 @@ body {
     font-weight: bold;
 }
 
-h1, h2, p, li, a {
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+h1, h2 {
     color: #ffffff;
 }
