@@ -9,6 +9,6 @@ a {
     text-decoration: underline;
 }
 
-h1, h2 {
+h1, h2, p, li, a {
     color: #ffffff !important;
 }
